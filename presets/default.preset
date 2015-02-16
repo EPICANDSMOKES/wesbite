@@ -19,7 +19,17 @@
     "bg-image-background-size" : "cover",
     "image-title-font-letter-spacing" : "2px",
     "product-gallery-auto-crop" : "true",
-    "bg-image" : "{background-image:none;background-position:center center;background-size:cover;background-attachment:fixed;background-repeat:no-repeat}",
+    
+    
+    "bg-image" : "{background-image:http://s621.photobucket.com/user/simondexter/media/old-trafford-soccer-stadium-wallpaper-wallpaper-soccer-stadium-trafford-night-depan-outside-inside-front-3ad6ded07223fc65b07372493ee313a8.jpg.html][IMG]http://i621.photobucket.com/albums/tt292/simondexter/old-trafford-soccer-stadium-wallpaper-wallpaper-soccer-stadium-trafford-night-depan-outside-inside-front-3ad6ded07223fc65b07372493ee313a8.jpg 
+;background-position:center center;background-size:cover;background-attachment:fixed;background-repeat:no-repeat}",
+    
+
+    
+    
+    
+    
+    
     "heading-2-font-line-height" : "1.2em",
     "image-title-font-font-size" : "18px",
     "index-transition" : "Fade",
